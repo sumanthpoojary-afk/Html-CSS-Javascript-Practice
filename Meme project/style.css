@@ -1,0 +1,41 @@
+body{
+    background: rgb(160, 103, 166);
+}
+h1{
+  
+   text-transform: uppercase;
+   font-size:3rem;
+}
+.poster{
+    margin: 100px ;
+    text-align: center;
+    font-family: Libre;
+    color: white; 
+    margin-bottom: 0;
+}
+#danerys{
+    border: solid #fff;
+}
+#para{
+     text-align: center;
+     text-transform: capitalize;
+     font-size: 14pt;
+     background-color: rgb(231, 224, 13);
+     margin-left: 300px;
+     margin-right: 266px;
+     border-radius: 10px;
+}
+.box{
+    width: 1400px;
+    height: 100px;
+    background-color:darkorange;
+    border:solid #fff;
+    margin-left: 50px;
+    margin-right: 34px;
+    text-align: center;
+    color: rgb(149, 44, 175);
+    font-family:Poppins ;
+    font-size: 14pt;
+    border-radius: 5px;
+    
+}
